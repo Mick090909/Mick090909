@@ -121,4 +121,4 @@
 
 <br>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0457F1&reversal=true&descAlign=54&descAlignY=52&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0457F1&reversal=true&descAlign=54&descAlignY=52&section=footer"/>
