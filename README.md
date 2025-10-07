@@ -110,7 +110,7 @@
 <br>
 
 <p align="center">
-  <img src="https://github.com/Miickkk/Miickkk/blob/output/galaxy.svg" alt="GitHub Snake" />
+  <img src="https://github.com/Mick090909/Mick090909/blob/output/galaxy.svg" alt="GitHub Snake" />
 </p>
 
 <br>
