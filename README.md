@@ -11,7 +11,7 @@
 <br>
 
 <div align="center" width="100%">
-  <img src="img/gif/download1.gif" alt="Typing SVG"/>
+  <img src="img/gif/download (1).gif" alt="Typing SVG"/>
 </div>
 
 <br>
@@ -110,7 +110,7 @@
 <br>
 
 <p align="center">
-  <img src="https://github.com/Mick090909/Mick090909/blob/output/galaxy.svg" alt="GitHub Snake" />
+  <img src="https://github.com/Miickkk/Miickkk/blob/output/galaxy.svg" alt="GitHub Snake" />
 </p>
 
 <br>
