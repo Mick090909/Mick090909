@@ -94,7 +94,7 @@
   
   <samp>
     <b>
-      🌀 Conta princípal: 🌀
+      🌀 Conta principal: 🌀
     </b>
   </samp>
 
