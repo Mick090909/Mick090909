@@ -5,7 +5,7 @@
 <div align="center">
 
 <div align="center">
-  <b>✧ ༺ ♥ ༻ ∞🦊✧ ༺ ♥ ༻ ∞</b>
+  <b>୭ ˚○◦˚.˚◦○˚ ୧ 🪼 ୭ ˚○◦˚.˚◦○˚ ୧</b>
 </div>
 
 <br>
@@ -17,19 +17,19 @@
 <br>
 
 <div align="center">
-  <b>✧ ༺ ♥ ༻ ∞🦊✧ ༺ ♥ ༻ ∞</b>
+  <b>୭ ˚○◦˚.˚◦○˚ ୧ 🪼 ୭ ˚○◦˚.˚◦○˚ ୧</b>
 </div>
 
 <br>
 <br>
   
-  <b>`💜 ソフトウェアプログラマー 💜`</b>
+  <b>`🌀 プログラマーのフリナ 🌀`</b>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/✧ M i i c k ✧-0457F1" />
+  <img src="https://img.shields.io/badge/♔ M i i c k ♔-0457F1" />
 </div>
       
 <br>
@@ -62,28 +62,28 @@
 <details align="center">  
   <summary>
       <samp>
-        <b>₊˚ˑ ༄ ؘ˚ 🦊Mais sobre mim🦊 ₊˚ˑ ༄ ؘ˚</b>
+        <b>୭ ˚○◦˚.˚◦○˚ ୧ 🪼 ୭ ˚○◦˚.˚◦○˚ ୧</b>
       </samp>
   </summary>
   
 <br>
 <br>
-₊˚ˑ ༄ ؘ˚₊ · ₊˚ˑ ༄ ؘ˚₊ · ₊˚ˑ ༄ ؘ˚₊ · ₊˚ˑ ༄ ؘ˚₊ · ₊˚ˑ ༄ ؘ˚₊ · ₊˚ˑ ༄ ؘ˚₊ ·₊˚ˑ ༄ ؘ˚₊ · ₊˚ˑ ༄ ؘ˚₊ · ₊˚ˑ ༄ ؘ˚₊ · ₊˚ˑ ༄ ؘ˚₊ · ₊˚ˑ ༄ ؘ˚₊ · ₊˚ˑ ༄ ؘ˚₊ ·₊˚ˑ ༄ ؘ˚₊ · ₊˚ˑ ༄ ؘ˚₊ · ₊˚ˑ ༄ ؘ˚₊ · ₊˚ˑ ༄ ؘ˚₊ · ₊˚
+ₓ˚. ୭ ˚○◦˚.˚◦○˚ ୧ₓ˚. ୭ ˚○◦˚.˚◦○˚ ୧ₓ˚. ୭ ˚○◦˚.˚◦○˚ ୧ₓ˚. ୭ ˚○◦˚.˚◦○˚ ୧ₓ˚. ୭ ˚○◦˚.˚◦○˚ ୧ₓ˚. ୭ ˚○◦˚.˚◦○˚ ୧ₓ˚. ୭ ˚○◦˚.˚◦○˚ ୧ₓ˚. ୭ ˚○◦˚.˚◦○˚ ୧ₓ˚. ୭ ˚○◦˚.
 <br>
 <br>
 
 <div align="center">
   <samp>
     <b>
-      💜 Fale comigo: 💜
+      🌀 Fale comigo: 🌀
     </b>
   </samp>
   <br>
   <br>
 
-  [![Gmail](https://img.shields.io/badge/Gmail-56288C?style=for-the-badge&logo=gmail&logoColor=fff)](https://mail.google.com/mail/?view=cm&fs=1&to=miickk09@gmail.com)
-  [![Instagram](https://img.shields.io/badge/Instagram-56288C?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/kx.n.i/?next=%2F)
-  [![GitHub](https://img.shields.io/badge/GitHub-56288C?style=for-the-badge&logo=github&logoColor=fff)](https://www.github.com/Miickkk/?next=%2F)
+  [![Gmail](https://img.shields.io/badge/Gmail-0457F1?style=for-the-badge&logo=gmail&logoColor=fff)](https://mail.google.com/mail/?view=cm&fs=1&to=miickk09@gmail.com)
+  [![Instagram](https://img.shields.io/badge/Instagram-0457F1?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/kx.n.i/?next=%2F)
+  [![GitHub](https://img.shields.io/badge/GitHub-0457F1?style=for-the-badge&logo=github&logoColor=fff)](https://www.github.com/Miickkk/?next=%2F)
   
 </div>
 <br>
