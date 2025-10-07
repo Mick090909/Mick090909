@@ -66,13 +66,15 @@
 <details align="center">  
   <summary>
       <samp>
-        <b>୭ ˚○◦˚.˚◦○˚ ୧ 🪼 ୭ ˚○◦˚.˚◦○˚ ୧</b>
+        <b>˚○◦˚.˚◦○˚ ୧ 🪼 ୭ ˚○◦˚.˚◦○˚ ୧</b>
       </samp>
   </summary>
   
 <br>
 <br>
 ₓ˚. ୭ ˚○◦˚.˚◦○˚ ୧ₓ˚. ୭ ˚○◦˚.˚◦○˚ ୧ₓ˚. ୭ ˚○◦˚.˚◦○˚ ୧ₓ˚. ୭ ˚○◦˚.˚◦○˚ ୧ₓ˚. ୭ ˚○◦˚.˚◦○˚ ୧ₓ˚. ୭ ˚○◦˚.˚◦○˚ ୧ₓ˚. ୭ ˚○◦˚.˚◦○˚ ୧ₓ˚. ୭ ˚○◦˚.˚◦○˚ ୧ₓ˚. ୭ ˚○◦˚.
+<br>
+
 <br>
 <br>
 
@@ -87,6 +89,18 @@
 
   [![Gmail](https://img.shields.io/badge/Gmail-0457F1?style=for-the-badge&logo=gmail&logoColor=fff)](https://mail.google.com/mail/?view=cm&fs=1&to=miickk09@gmail.com)
   [![Instagram](https://img.shields.io/badge/Instagram-0457F1?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/kx.n.i/?next=%2F)
+
+  <br>
+  
+  <samp>
+    <b>
+      🌀 Conta princípal: 🌀
+    </b>
+  </samp>
+
+  <br>
+  <br>
+  
   [![GitHub](https://img.shields.io/badge/GitHub-0457F1?style=for-the-badge&logo=github&logoColor=fff)](https://www.github.com/Miickkk/?next=%2F)
   
 </div>
@@ -102,7 +116,7 @@
 <br>
 
 <div align="center" width="100%">
-  <b>₊˚ˑ ༄ ؘ˚₊ · ₊˚ˑ ༄ ؘ˚₊ · ₊˚ˑ ༄ ؘ˚₊ · ₊˚ˑ  🦊B Y E🦊  ₊˚ˑ ༄ ؘ˚₊ · ₊˚ˑ ༄ ؘ˚₊ · ₊˚ˑ ༄ ؘ˚₊ · ₊˚ˑ</b>
+  <b>୭ ˚○◦˚.˚◦○˚ ୧ ୭ ˚○◦˚.˚◦○˚ ୧ ୭ ˚○◦˚.˚◦○˚ ୧ 🪼 B Y E 🪼 ୭ ˚○◦˚.˚◦○˚ ୧ ୭ ˚○◦˚.˚◦○˚ ୧ ୭ ˚○◦˚.˚◦○˚ ୧</b>
 </div>
 
 <br>
