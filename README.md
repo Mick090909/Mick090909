@@ -22,6 +22,10 @@
 
 <br>
 <br>
+
+<div align="center" width="100%">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1000&color=0457F1&center=true&vCenter=true&width=435&lines=Bem-vindos+ao+meu+Git+%E3%83%84;Essa+%C3%A9+minha+conta+secund%C3%A1ria+" alt="Typing SVG"/>
+</div>
   
   <b>`🌀 プログラマーのフリナ 🌀`</b>
 </div>
